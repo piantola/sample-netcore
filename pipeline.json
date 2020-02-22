@@ -13,7 +13,7 @@
   },
   "archive": {
     "registry": "docker.io",
-    "repository": "edwardsdl/sample-netcore"
+    "repository": "piantola/sample-netcore"
   },
   "deploy": {
     "containerPort": 5000
